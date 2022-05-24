@@ -5,11 +5,14 @@
 
 - 🌱 I’m currently learning **TensorFlow and Python**
 
-- 👨‍💻 All of my projects are available at [https://aliyusifov99.github.io/ali-yusifov/](https://aliyusifov99.github.io/ali-yusifov/)
+- 👨‍💻 All of my projects are available at [Github](https://aliyusifov99.github.io/ali-yusifov/)
+
+- 📄 Know about my experiences [Resume](https://utpmy-my.sharepoint.com/:b:/g/personal/ali_18003732_utp_edu_my/EQhKE5HWFIJKlXaXtoBGUw4BwQac96XNDN4m1EMR8ftZxw?e=gEg3Au)
+
 
 - 💬 Ask me about **pandas, seaborn, matplotlib, scikit_learn, plotly**
 
-- 📫 How to reach me **ali.yusifli0011@gmail.com**
+- 📫 Reach me at **ali.yusifli0011@gmail.com**
 
 - ⚡ Fun fact **I love music and code**
 
@@ -34,4 +37,8 @@
 </a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyusifov99&show_icons=true&locale=en&layout=compact" alt="aliyusifov99" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyusifov99&show_icons=true&locale=en" alt="aliyusifov99" /></p>
+
+
