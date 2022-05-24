@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [Resume](https://utpmy-my.sharepoint.com/:b:/g/personal/ali_18003732_utp_edu_my/EQhKE5HWFIJKlXaXtoBGUw4BwQac96XNDN4m1EMR8ftZxw?e=gEg3Au)
 
 
-- 💬 Ask me about **pandas, seaborn, matplotlib, scikit_learn, plotly**
+- 💬 Ask me about **python, pandas,numpy seaborn, matplotlib, scikit_learn, plotly**
 
 - 📫 Reach me at **ali.yusifli0011@gmail.com**
 
