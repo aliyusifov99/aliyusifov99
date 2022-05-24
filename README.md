@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Yusifov</h1>
+<h1 align="center">Hi 👋, I'm Elnur Yusifov</h1>
 <h3 align="center">Data Science and Machine Learning Practitioner</h3>
 
 - 🔭 I’m currently working on **Production Enhancement Dashboard**
