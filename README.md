@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [aliyusifov.ml](https://aliyusifov99.github.io/ali-yusifov/)
 
-- 📄 Know about my experiences [Resume](https://utpmy-my.sharepoint.com/:b:/g/personal/ali_18003732_utp_edu_my/EQhKE5HWFIJKlXaXtoBGUw4BwQac96XNDN4m1EMR8ftZxw?e=gEg3Au)
+- 📄 Know about my experiences [Resume](https://utpmy-my.sharepoint.com/:b:/g/personal/ali_18003732_utp_edu_my/EX3lnAjusNVNlaLu1mGy-VIByd6ZRBCCxVuooeO5ZULfww?e=NBAoKb)
 
 
 - 💬 Ask me about **python, pandas,numpy seaborn, matplotlib, scikit_learn, plotly**
