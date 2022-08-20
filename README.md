@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow and Python**
 
-- 👨‍💻 All of my projects are available at [aliyusifov.ml](https://aliyusifov99.github.io/ali-yusifov/)
+- 👨‍💻 All of my projects are available at [aliyusifov.ml](https://www.datascienceportfol.io/aliyusifov/)
 
 - 📄 Know about my experiences [Resume](https://utpmy-my.sharepoint.com/:b:/g/personal/ali_18003732_utp_edu_my/EX3lnAjusNVNlaLu1mGy-VIByd6ZRBCCxVuooeO5ZULfww?e=NBAoKb)
 
