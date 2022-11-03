@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Production Enhancement Dashboard**
 
-- 🌱 I’m currently learning **TensorFlow and Python**
+- 🌱 I’m currently learning **Power BI**
 
 - 👨‍💻 All of my projects are available at [aliyusifov.ml](https://www.datascienceportfol.io/aliyusifov)
 
