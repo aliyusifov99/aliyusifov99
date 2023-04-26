@@ -3,14 +3,14 @@
 
 - 🔭 I’m currently working on **Production Enhancement Dashboard**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Convolutional Neural Networks**
 
 - 👨‍💻 All of my projects are available at [aliyusifov.ml](https://www.datascienceportfol.io/aliyusifov)
 
-- 📄 Know about my experiences [Resume](https://utpmy-my.sharepoint.com/:b:/g/personal/ali_18003732_utp_edu_my/EX3lnAjusNVNlaLu1mGy-VIByd6ZRBCCxVuooeO5ZULfww?e=NBAoKb)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PSJBuw_Y_hEa2ZQcph4B-36W8u4k-sCo/view?usp=sharing)
 
 
-- 💬 Ask me about **python, pandas,numpy seaborn, matplotlib, scikit_learn, plotly**
+- 💬 Ask me about **python, pandas,numpy seaborn, matplotlib, scikit_learn, plotly, streamlit, web scraping**
 
 - 📫 Reach me at **ali.yusifli0011@gmail.com**
 
