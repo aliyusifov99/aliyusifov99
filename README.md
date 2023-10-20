@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ali Yusifov</h1>
 <h3 align="center">Data Science and Machine Learning Practitioner</h3>
 
-- 🔭 I’m currently working on **Production Enhancement Dashboard**
+- 🔭 I’m currently working on **PetroBot**
 
-- 🌱 I’m currently learning **Convolutional Neural Networks**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [aliyusifov.ml](https://www.datascienceportfol.io/aliyusifov)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PSJBuw_Y_hEa2ZQcph4B-36W8u4k-sCo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_Eu9HDzNbqZq8cZ-7ceTdqJhzLMpom-g/view?usp=share_link)
 
 
-- 💬 Ask me about **python, pandas,numpy seaborn, matplotlib, scikit_learn, plotly, streamlit, web scraping**
+- 💬 Ask me about **python, pandas,numpy seaborn, matplotlib, scikit_learn, plotly, streamlit, web scraping, NLP**
 
 - 📫 Reach me at **ali.yusifli0011@gmail.com**
 
