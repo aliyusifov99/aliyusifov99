@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **PetroBot**
 
-- 🌱 I’m currently learning **Power BI and NLP**
+- 🌱 I’m currently learning **MLOps**
 
 - 👨‍💻 All of my projects are available at [aliyusifovai.com](https://www.aliyusifovai.com/)
 
-- 📄 Know about my experiences [Resume](https://utpmy-my.sharepoint.com/personal/ali_18003732_utp_edu_my/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fali%5F18003732%5Futp%5Fedu%5Fmy%2FDocuments%2FCareer%2FWork%2FResume%2FData%20Science%2FAli%20Yusifov%20Resume%2Epdf&parent=%2Fpersonal%2Fali%5F18003732%5Futp%5Fedu%5Fmy%2FDocuments%2FCareer%2FWork%2FResume%2FData%20Science&ga=1)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!At-R4Y4RWfpEhswVU1DWiumOcuv0vw?e=QrcHcs)
 
-- 📫 Reach me at **ali.yusifli0011@gmail.com**
+- 📫 Reach me at **ali.yusifov.work@gmail.com**
 
-- ⚡ Fun fact **I love music and code**
+- ⚡ Fun fact **I love data and coding**
 
 <h3 align="left">Languages and Tools:</h3>
 
