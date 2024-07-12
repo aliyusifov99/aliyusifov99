@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Yusifov</h1>
 <h3 align="center">Data Scientist and Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **PetroBot**
+- 🔭 I’m currently working on **House Price Prediction for Poland**
 
 - 🌱 I’m currently learning **MLOps**
 
