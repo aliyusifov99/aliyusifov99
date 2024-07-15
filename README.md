@@ -40,7 +40,13 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLFlow" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" alt="DVC" />
+  <img src="https://img.shields.io/badge/Hydra-000000?style=flat-square&logo=hydra&logoColor=white" alt="Hydra" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
+
 
 <h3 align="left">Feel free to reach out or follow my work through the following platforms:</h3>
 
