@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **House Price Prediction for Poland**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [aliyusifovai.com](https://www.aliyusifovai.com/)
 
