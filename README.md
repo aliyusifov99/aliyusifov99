@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Yusifov</h1>
 <h3 align="center">Data Engineer | Building Scalable Data Systems</h3>
 
-### 🚀 About Me
+### About Me
 
 - 💼 I’m a **Data Engineer** focused on designing scalable batch and streaming data pipelines  
 - 🛠️ I work with technologies like **Apache Spark, Airflow**, and **SQL**  
