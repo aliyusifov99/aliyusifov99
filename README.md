@@ -3,7 +3,7 @@
 
 ### About Me
 
-- 💼 **Data Engineer** at **GFT Technologies**, migrating legacy SAS codebases to PySpark and building end-to-end data pipelines
+- 💼 **Data Engineer** at **GFT Technologies**
 - 🛠️ I work with technologies like **Apache Spark, Airflow, Prophecy**, and **SQL**
 - ☁️ Experienced with **cloud deployments** on **Azure**
 - 📊 Previously worked in **Machine Learning, AI Engineering & Data Science**, bringing a hybrid perspective to data workflows
