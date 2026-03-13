@@ -14,13 +14,10 @@
 
 ---
 
-### 🏅 Certifications & Awards
+### 🏅 Certifications
 
 - ✅ Microsoft Certified: **Azure Data Fundamentals (DP-900)**
 - ✅ Microsoft Certified: **Azure AI Fundamentals (AI-900)**
-- 🥇 **Millennial Energy Challenge** – Data Science Competition, Champion (2021)
-- 🥉 **Schlumberger ML Innovation Competition**, 2nd Runner-Up (2023)
-- 📜 **Google Data Analytics Professional Certificate** (2021)
 
 ---
 
