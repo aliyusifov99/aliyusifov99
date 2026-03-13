@@ -9,7 +9,7 @@
 - 📊 Previously worked in **Machine Learning, AI Engineering & Data Science**, bringing a hybrid perspective to data workflows
 - 🧠 Interested in **MLOps**, model deployment, and workflow orchestration
 - 📫 Reach me: **ali.yusifov.work@gmail.com**
-- 📄 [View My Resume](https://1drv.ms/b/s!At-R4Y4RWfpEhswVU1DWiumOcuv0vw?e=QrcHcs)
+- 📄 [View My Resume](https://1drv.ms/b/c/44fa59118ee191df/IQDfkeGOEVn6IIBE7zwAAAAAAd627twzVe2ZwnuGFmku0qA?e=zsflNT)
 - ⚡ Fun fact: I love transforming raw data into insights and clean architecture!
 
 ---
