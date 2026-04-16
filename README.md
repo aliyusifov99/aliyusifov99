@@ -5,7 +5,7 @@
 
 - 💼 **Data Engineer** at **GFT Technologies**
 - 🛠️ I work with technologies like **Apache Spark, Airflow, Prophecy**, and **SQL**
-- ☁️ Experienced with **cloud deployments** on **Azure**
+- ☁️ Experienced with **cloud deployments** on **Azure**a
 - 📊 Previously worked in **Machine Learning, AI Engineering & Data Science**, bringing a hybrid perspective to data workflows
 - 🧠 Interested in **MLOps**, model deployment, and workflow orchestration
 - 📫 Reach me: **ali.yusifov.work@gmail.com**
@@ -18,6 +18,7 @@
 
 - ✅ Microsoft Certified: **Azure Data Fundamentals (DP-900)**
 - ✅ Microsoft Certified: **Azure AI Fundamentals (AI-900)**
+- ✅ Databricks Certified: **Data Engineer Associate**
 
 ---
 
@@ -27,6 +28,7 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Prophecy](https://img.shields.io/badge/Prophecy-6C3FC3?style=flat-square&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
